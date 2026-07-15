@@ -4,6 +4,8 @@ This is a drop-in structure for **Phase 1 (Base MVP)** and **Phase 2 (Variants &
 Copy the folders below into your existing Next.js repo (or use this as the repo root),
 then install and run.
 
+# LIVE DEMO :  https://6a5652a798a79bc7fedbcd0e-rrslpldxfa.chromatic.com/
+
 ```
 .storybook/
   main.js        → registers @storybook/nextjs framework + addons (a11y, themes, controls)
